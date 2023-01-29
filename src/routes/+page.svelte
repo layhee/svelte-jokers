@@ -7,7 +7,7 @@
 <ul>
   {#each data.results as item}
     <li>
-      <div>
+      <div class="cont">
         <a href={`/jokes/${item.id}`}>
         <Quotes joke={item.joke}/>
         </a>

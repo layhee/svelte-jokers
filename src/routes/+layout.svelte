@@ -5,7 +5,7 @@
        display: flex;
        flex-direction: column;
        align-items: center;
-       margin: 32px 0;
+       margin: 52px 0;
     }
 </style>
 <main>
